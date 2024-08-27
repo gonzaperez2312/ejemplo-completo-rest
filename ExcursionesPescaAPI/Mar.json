@@ -1,0 +1,13 @@
+[
+  {
+    "Codigo": 3,
+    "Nombre": "Excursion MAr 1",
+    "Ubicacion": "Parana",
+    "Duracion": 12,
+    "Precio": 1000,
+    "FechaEliminacion": "2024-08-27T00:35:46.1122641-03:00",
+    "tamañoBarco": 100,
+    "profundidadPesca": 25,
+    "tieneCatering": true
+  }
+]

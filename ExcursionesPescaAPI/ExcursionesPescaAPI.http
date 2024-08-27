@@ -1,0 +1,6 @@
+@ExcursionesPescaAPI_HostAddress = http://localhost:5022
+
+GET {{ExcursionesPescaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

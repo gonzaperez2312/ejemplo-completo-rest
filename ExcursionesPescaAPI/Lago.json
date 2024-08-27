@@ -1,0 +1,34 @@
+[
+  {
+    "EspeciePesca": 1,
+    "TieneGuia": true,
+    "Codigo": 1,
+    "Nombre": "Excursion Lago 1",
+    "Ubicacion": "Parana",
+    "Duracion": 12,
+    "Precio": 1000,
+    "FechaEliminacion": "2024-08-27T00:35:46.1122641-03:00",
+    "EquiposPesca": [
+      {
+        "Codigo": 1,
+        "Nombre": "Caña"
+      }
+    ]
+  },
+  {
+    "EspeciePesca": 2,
+    "TieneGuia": false,
+    "Codigo": 2,
+    "Nombre": "Excursion larga",
+    "Ubicacion": "cayastá",
+    "Duracion": 100,
+    "Precio": 100000,
+    "FechaEliminacion": null,
+    "EquiposPesca": [
+      {
+        "Codigo": 1,
+        "Nombre": "Caña 1"
+      }
+    ]
+  }
+]
